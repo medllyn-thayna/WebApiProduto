@@ -1,0 +1,1 @@
+dotnet ef dbcontext scaffold "Data Source=localhost;Initial Catalog=DB_PRODUTO;persist security info=True;Integrated Security=SSPI;TrustServerCertificate=true" Microsoft.EntityFrameworkCore.SqlServer -o ..\Produto.Domain\Entities --context-dir Context -d --use-database-names --no-pluralize -f --namespace Produto.Domain.Entities --context-namespace Produto.Data.Context
