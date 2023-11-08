@@ -1,4 +1,5 @@
-﻿namespace Produto.Service.Interfaces
+﻿
+namespace Produto.Service.Interfaces
 {
     public interface IBaseService<TEntity> where TEntity : class
     {

@@ -1,0 +1,17 @@
+C:\Users\Med\Desktop\Produto\Produto.Data\bin\Debug\net6.0\Produto.Data.deps.json
+C:\Users\Med\Desktop\Produto\Produto.Data\bin\Debug\net6.0\Produto.Data.runtimeconfig.json
+C:\Users\Med\Desktop\Produto\Produto.Data\bin\Debug\net6.0\Produto.Data.dll
+C:\Users\Med\Desktop\Produto\Produto.Data\bin\Debug\net6.0\Produto.Data.pdb
+C:\Users\Med\Desktop\Produto\Produto.Data\bin\Debug\net6.0\Produto.Domain.dll
+C:\Users\Med\Desktop\Produto\Produto.Data\bin\Debug\net6.0\Produto.Domain.pdb
+C:\Users\Med\Desktop\Produto\Produto.Data\obj\Debug\net6.0\Produto.Data.csproj.AssemblyReference.cache
+C:\Users\Med\Desktop\Produto\Produto.Data\obj\Debug\net6.0\Produto.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Med\Desktop\Produto\Produto.Data\obj\Debug\net6.0\Produto.Data.AssemblyInfoInputs.cache
+C:\Users\Med\Desktop\Produto\Produto.Data\obj\Debug\net6.0\Produto.Data.AssemblyInfo.cs
+C:\Users\Med\Desktop\Produto\Produto.Data\obj\Debug\net6.0\Produto.Data.csproj.CoreCompileInputs.cache
+C:\Users\Med\Desktop\Produto\Produto.Data\obj\Debug\net6.0\Produto.Data.csproj.CopyComplete
+C:\Users\Med\Desktop\Produto\Produto.Data\obj\Debug\net6.0\Produto.Data.dll
+C:\Users\Med\Desktop\Produto\Produto.Data\obj\Debug\net6.0\refint\Produto.Data.dll
+C:\Users\Med\Desktop\Produto\Produto.Data\obj\Debug\net6.0\Produto.Data.pdb
+C:\Users\Med\Desktop\Produto\Produto.Data\obj\Debug\net6.0\Produto.Data.genruntimeconfig.cache
+C:\Users\Med\Desktop\Produto\Produto.Data\obj\Debug\net6.0\ref\Produto.Data.dll

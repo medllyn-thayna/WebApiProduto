@@ -1,0 +1,14 @@
+C:\Users\Med\Desktop\Produto\Produto.Domain\bin\Debug\net6.0\Produto.Domain.deps.json
+C:\Users\Med\Desktop\Produto\Produto.Domain\bin\Debug\net6.0\Produto.Domain.runtimeconfig.json
+C:\Users\Med\Desktop\Produto\Produto.Domain\bin\Debug\net6.0\Produto.Domain.dll
+C:\Users\Med\Desktop\Produto\Produto.Domain\bin\Debug\net6.0\Produto.Domain.pdb
+C:\Users\Med\Desktop\Produto\Produto.Domain\obj\Debug\net6.0\Produto.Domain.csproj.AssemblyReference.cache
+C:\Users\Med\Desktop\Produto\Produto.Domain\obj\Debug\net6.0\Produto.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Med\Desktop\Produto\Produto.Domain\obj\Debug\net6.0\Produto.Domain.AssemblyInfoInputs.cache
+C:\Users\Med\Desktop\Produto\Produto.Domain\obj\Debug\net6.0\Produto.Domain.AssemblyInfo.cs
+C:\Users\Med\Desktop\Produto\Produto.Domain\obj\Debug\net6.0\Produto.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Med\Desktop\Produto\Produto.Domain\obj\Debug\net6.0\Produto.Domain.dll
+C:\Users\Med\Desktop\Produto\Produto.Domain\obj\Debug\net6.0\refint\Produto.Domain.dll
+C:\Users\Med\Desktop\Produto\Produto.Domain\obj\Debug\net6.0\Produto.Domain.pdb
+C:\Users\Med\Desktop\Produto\Produto.Domain\obj\Debug\net6.0\Produto.Domain.genruntimeconfig.cache
+C:\Users\Med\Desktop\Produto\Produto.Domain\obj\Debug\net6.0\ref\Produto.Domain.dll
